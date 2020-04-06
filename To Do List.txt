@@ -1,5 +1,5 @@
-Latar Belakang Di tambahin beberapa kalimat
-Nama Kelompok
+
+
 Identifikasi masalah (jika dirasa kurang)
 Ruang lingkup proyek di cek lagi
 Metodologi Pernagkat Lunak.
@@ -11,3 +11,8 @@ deadline : hari selasa jam 8 pagi
 
 :)
 
+
+------------------------------------------------------------------
+
+Done ---> Latar Belakang Di tambahin beberapa kalimat
+Done ---> Nama Kelompok
